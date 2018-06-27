@@ -1,4 +1,4 @@
-# Kor-Liquid_Reign
+README
 
 
 홈페이지 : https://www.liquid-reign.com <br>

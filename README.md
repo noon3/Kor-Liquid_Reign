@@ -1,5 +1,4 @@
-README
-
+![liquid-reign](Kor-Liquid_Reign/Liquid_reign.jpeg)
 
 홈페이지 : https://www.liquid-reign.com <br>
 

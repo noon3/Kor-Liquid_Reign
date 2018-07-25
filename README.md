@@ -1,4 +1,4 @@
-![liquid-reign](Kor-Liquid_Reign/Liquid_reign.jpeg)
+![liquid-reign](https://github.com/NSamii/Kor-Liquid_Reign/blob/master/Liquid_reign.jpeg)
 
 홈페이지 : https://www.liquid-reign.com <br>
 

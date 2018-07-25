@@ -1,6 +1,6 @@
 ![liquid-reign](https://github.com/NSamii/Kor-Liquid_Reign/blob/master/Liquid_reign.jpeg)
 
-홈페이지 : https://www.liquid-reign.com <br>
+**홈페이지** : https://www.liquid-reign.com <br>
 
 Liquid Reign은 2051년의 디스토피아도 유토피아도 아닌, 나름 적절한 세계를 상상하며 그려낸 공상과학 소설입니다. 주인공 다니엘의 여정은 특이점 이후의 인공지능을 통해 현실과 가상현실을 넘나들며 액체민주주의가 현실화된 미래를 탐구하죠. 각 챕터의 끝부분에 해당 챕터가 어떠한 글로부터 영감을 받았는지를 명시하고 있고, 그 범위는 장 자크 루소의 사회계약론부터 2018년 블록체인 스타트업에까지 이릅니다. 
 <br>
@@ -32,7 +32,7 @@ Liquid Reign은 2051년의 디스토피아도 유토피아도 아닌, 나름 적
 
 
 <Br><br><br><br>
-Homepage : https://wwww.liquid-reign.com
+**Homepage** : https://wwww.liquid-reign.com
     
 Liquid Reign is a work of speculative fiction, Imagineering a fairly  liveable future in 2051, neither dys- nor utopian. Daniel‘s odyssey is  guided by a post-singularity extended intelligence, travelling through  the virtual and solid reality of an anarchistic high-bandwidth  democracy. Melting the boundaries between science and fiction into a  novel format, each chapter provides links to the sources of inspiration  influencing it - ranging from Jean Jacques Rousseau‘s social contract of  1762 to blockchain startups from 2018.
 
